@@ -98,6 +98,6 @@ function parseMatch(html) {
 }
 // 
 // create leaderboard
-function AddToLeaderBoard(name, team, run, mType) {
+// function AddToLeaderBoard(name, team, run, mType) {
 
-}
+// }
