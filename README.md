@@ -1,8 +1,12 @@
 # webScraping_project
 
-we use in this project request.js node module for fetch html page.
+We use in this project node.js node module from (npm).
 
-cheerio help us to css selector in html page.
+. request for fetch the html data through server.
+
+. cheerio help us to css selector in html page.
+
+. xlsx to make the excel file ,where we store the all name excel in folder file with storing data like run, runrate ,ball ,wicket etc.
 
 Firstly install node.js through offical website https://nodejs.org/en/download/
 
